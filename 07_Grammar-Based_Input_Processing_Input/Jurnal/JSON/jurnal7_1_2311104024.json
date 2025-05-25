@@ -1,0 +1,21 @@
+{
+  "firstName": "Tsaqif Hisyam",
+  "lastName": "Saputra",
+  "gender": "Laki-Laki",
+  "age": 20,
+  "address": {
+    "streetAddress": "Perum BKD",
+    "city": "Cilacap Utara",
+    "state": "Jawa Tengah"
+  },
+  "courses": [
+    {
+      "code": "CRI2AA",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2BB",
+      "name": "Jenis Mata Kuliah"
+    }
+  ]
+}
