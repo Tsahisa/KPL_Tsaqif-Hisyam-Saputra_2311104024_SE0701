@@ -1,0 +1,13 @@
+{
+  "name": "pangkat-app",
+  "version": "1.0.0",
+  "description": "Aplikasi pangkat custom",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "module"
+}

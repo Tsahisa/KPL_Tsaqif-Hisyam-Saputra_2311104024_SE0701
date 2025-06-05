@@ -1,0 +1,6 @@
+{
+  "profiling": {
+    "notes": "Amati perubahan CPU dan memory sebelum dan sesudah input.",
+    "tool": "Task Manager / Chrome DevTools Performance Tab"
+  }
+}
