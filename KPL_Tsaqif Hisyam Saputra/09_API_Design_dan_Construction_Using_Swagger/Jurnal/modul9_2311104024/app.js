@@ -6,7 +6,7 @@ const PORT = 3000;
 
 app.use(express.json());
 
-let movies = require('../movies.json');
+let movies = JSON.parse(fs.readFileSync('./movies.json', 'utf-8'));
 
 // GET all movies
 app.get('/api/Movies', (req, res) => {
