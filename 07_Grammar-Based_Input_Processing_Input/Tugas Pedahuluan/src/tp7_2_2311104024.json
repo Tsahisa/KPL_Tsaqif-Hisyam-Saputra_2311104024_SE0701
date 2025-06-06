@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "code": "RPL185604",
+      "name": "KPL"
+    },
+    {
+      "code": "RPL184205",
+      "name": "Proyek Tingkat 2"
+    },
+    {
+      "code": "RPL148501",
+      "name": "Basis Data"
+    },
+    {
+      "code": "RPL148501",
+      "name": "Organisasi dan Arsitektur Komputer"
+    },
+    {
+      "code": "RPL148520",
+      "name": "Struktur Data"
+    },
+    {
+      "code": "RPL185604",
+      "name": "Interaksi Manusia dan Komputer "
+    },
+    {
+      "code": "RPL158804",
+      "name": "Pemrograman Berorientasi Objek"
+    }
+  ]
+}
