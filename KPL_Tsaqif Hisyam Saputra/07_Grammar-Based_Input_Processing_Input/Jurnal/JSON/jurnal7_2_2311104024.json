@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "firstName": "Christian Felix",
+      "lastName": "Saliman Sugiono",
+      "gender": "Laki-Laki",
+      "age": 21,
+      "nim": "2311104031"
+    },
+    {
+      "firstName": "Maulana Kaka",
+      "lastName": "Halin Widyadhana",
+      "gender": "Laki-Laki",
+      "age": 20,
+      "nim": "2311104034"
+    },
+    {
+      "firstName": "Zulfa Mustafa",
+      "lastName": "Akhyar Iswahyudi",
+      "gender": "Laki-Laki",
+      "age": 20,
+      "nim": "2311104010"
+    }
+  ]
+}
